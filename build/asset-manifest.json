@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d6b1969.chunk.css",
+    "main.js": "/static/js/main.3b8094be.chunk.js",
+    "main.js.map": "/static/js/main.3b8094be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9283f81e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9283f81e.js.map",
+    "static/js/2.f63e6b9b.chunk.js": "/static/js/2.f63e6b9b.chunk.js",
+    "static/js/2.f63e6b9b.chunk.js.map": "/static/js/2.f63e6b9b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1e3d65448fa7ec8bb792624283658100.js": "/precache-manifest.1e3d65448fa7ec8bb792624283658100.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5d6b1969.chunk.css.map": "/static/css/main.5d6b1969.chunk.css.map",
+    "static/js/2.f63e6b9b.chunk.js.LICENSE.txt": "/static/js/2.f63e6b9b.chunk.js.LICENSE.txt",
+    "static/media/capa-ebook.jpeg": "/static/media/capa-ebook.0228a27d.jpeg",
+    "static/media/compra-segura.jpeg": "/static/media/compra-segura.a49de988.jpeg",
+    "static/media/perguntas.jpeg": "/static/media/perguntas.cda153f2.jpeg",
+    "static/media/prova-social-1.jpeg": "/static/media/prova-social-1.e2758ba8.jpeg",
+    "static/media/prova-social-2.jpeg": "/static/media/prova-social-2.b6c0d37d.jpeg",
+    "static/media/prova-social-3.jpeg": "/static/media/prova-social-3.c3d1574a.jpeg",
+    "static/media/prova-social-4.jpeg": "/static/media/prova-social-4.5a958692.jpeg",
+    "static/media/prova-social-5.jpeg": "/static/media/prova-social-5.52b4c90a.jpeg",
+    "static/media/prova-social-6.jpeg": "/static/media/prova-social-6.02c87a1e.jpeg",
+    "static/media/receitas.jpeg": "/static/media/receitas.1829d64a.jpeg",
+    "static/media/regra-80-20.jpeg": "/static/media/regra-80-20.b054c1fc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9283f81e.js",
+    "static/js/2.f63e6b9b.chunk.js",
+    "static/css/main.5d6b1969.chunk.css",
+    "static/js/main.3b8094be.chunk.js"
+  ]
+}
