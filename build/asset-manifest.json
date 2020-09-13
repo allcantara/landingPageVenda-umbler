@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.319410c2.chunk.css",
-    "main.js": "/static/js/main.912ef3ad.chunk.js",
-    "main.js.map": "/static/js/main.912ef3ad.chunk.js.map",
+    "main.css": "/static/css/main.feb6adfd.chunk.css",
+    "main.js": "/static/js/main.0ba9dea0.chunk.js",
+    "main.js.map": "/static/js/main.0ba9dea0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9283f81e.js",
     "runtime-main.js.map": "/static/js/runtime-main.9283f81e.js.map",
     "static/js/2.22fc5fda.chunk.js": "/static/js/2.22fc5fda.chunk.js",
     "static/js/2.22fc5fda.chunk.js.map": "/static/js/2.22fc5fda.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.12055fe04142d569f060dd2b5a86fcd3.js": "/precache-manifest.12055fe04142d569f060dd2b5a86fcd3.js",
+    "precache-manifest.3388ecfb7b402a3945e037a2e663fe4c.js": "/precache-manifest.3388ecfb7b402a3945e037a2e663fe4c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.319410c2.chunk.css.map": "/static/css/main.319410c2.chunk.css.map",
+    "static/css/main.feb6adfd.chunk.css.map": "/static/css/main.feb6adfd.chunk.css.map",
     "static/js/2.22fc5fda.chunk.js.LICENSE.txt": "/static/js/2.22fc5fda.chunk.js.LICENSE.txt",
     "static/media/capa-ebook.jpeg": "/static/media/capa-ebook.0228a27d.jpeg",
     "static/media/compra-segura.jpeg": "/static/media/compra-segura.a49de988.jpeg",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.9283f81e.js",
     "static/js/2.22fc5fda.chunk.js",
-    "static/css/main.319410c2.chunk.css",
-    "static/js/main.912ef3ad.chunk.js"
+    "static/css/main.feb6adfd.chunk.css",
+    "static/js/main.0ba9dea0.chunk.js"
   ]
 }
